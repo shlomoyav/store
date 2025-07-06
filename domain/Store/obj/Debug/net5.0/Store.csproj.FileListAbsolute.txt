@@ -1,0 +1,11 @@
+C:\Drive D\Clean Architecture\store\domain\Store\bin\Debug\net5.0\Store.deps.json
+C:\Drive D\Clean Architecture\store\domain\Store\bin\Debug\net5.0\Store.dll
+C:\Drive D\Clean Architecture\store\domain\Store\bin\Debug\net5.0\ref\Store.dll
+C:\Drive D\Clean Architecture\store\domain\Store\bin\Debug\net5.0\Store.pdb
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\Store.AssemblyInfoInputs.cache
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\Store.AssemblyInfo.cs
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\Store.csproj.CoreCompileInputs.cache
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\Store.dll
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\ref\Store.dll
+C:\Drive D\Clean Architecture\store\domain\Store\obj\Debug\net5.0\Store.pdb
